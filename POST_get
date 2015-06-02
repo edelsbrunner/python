@@ -1,0 +1,2 @@
+curl -H "ContentType:application/json" -X POST http://localhost:4200/api/ads
+curl -H "ContentType:application/json" http://localhost:4200/api/ads
